@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Backend Developer
 
-<!--
-**JesusDavidQuispeQuispe/JesusDavidQuispeQuispe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador backend con más de **3 años de experiencia**. Actualmente estoy estudiando para seguir creciendo profesionalmente. Me apasiona crear sistemas robustos, escalables y fáciles de mantener.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+
+### 👨‍💻 Lenguajes de programación
+- PHP (Laravel)
+- Python
+- JavaScript
+- C#
+- HTML
+
+### 🎨 Estilos y UI
+- TailwindCSS
+- Bootstrap
+
+### 🗃️ Bases de datos
+- PostgreSQL
+- MySQL
+
+### ⚙️ Herramientas
+- Postman
+- Termius
+- Git & GitHub
+- Visual Studio Code
+- DBeaver
+
+---
+
+## 🚀 Lo que puedo hacer
+
+- Desarrollar y mantener APIs RESTful
+- Manejar base de datos relacionales con eficiencia
+- Integrar servicios externos mediante APIs
+- Automatizar procesos del servidor
+- Implementar autenticación y autorización de usuarios
+- Escribir código limpio, comentado y escalable
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Buenas prácticas de arquitectura backend
+- Seguridad en aplicaciones web
+- Optimización de rendimiento en bases de datos
+- Nuevas herramientas y frameworks
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JesusDavidQuispeQuispe&theme=dark)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusDavidQuispeQuispe&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusDavidQuispeQuispe&hide_progress=true)
