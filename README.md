@@ -55,7 +55,6 @@ Soy un desarrollador backend con más de **3 años de experiencia**. Actualmente
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusDavidQuispeQuispe&hide_progress=false)
 
 
-<div align="center">
-  <img  src="resources/img/github-contribution-grid-snake.svg"
-    alt="elanza-48" />
-</div>
+
+## 🐍 Mis contribuciones diarias
+![Snake Animation](https://github.com/JesusDavidQuispeQuispe/JesusDavidQuispeQuispe/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
