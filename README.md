@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jesús David Quispe Quispe
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF5F5F&width=435&lines=Hola%2C+soy+Jesús+David+Quispe+Quispe;Backend+Developer+Apasionado;Bienvenido+a+mi+GitHub!)](https://git.io/typing-svg)
 
 🎯 **Desarrollador Backend** con más de **3 años de experiencia** creando soluciones robustas, escalables y fáciles de mantener.  
 🚀 Actualmente me encuentro en constante aprendizaje para seguir creciendo profesionalmente.
@@ -80,10 +80,6 @@
 ## 🌐 Encuéntrame
 
 - GitHub: [@JesusDavidQuispeQuispe](https://github.com/JesusDavidQuispeQuispe)
-- LinkedIn: *(Agrega tu perfil si tienes uno)*
 
----
-
-> 💬 *“El código bien hecho no necesita explicaciones, pero si las tiene, mejor aún.”*
 
 
