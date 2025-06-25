@@ -81,7 +81,6 @@
 
 ## 🏆 Logros y metas
 
-- ✅ +15 cursos completados en Platzi
 - 🔄 En proceso: certificación en Arquitectura Backend
 - 📈 Implementé soluciones empresariales con más de 10K registros diarios
 - 🌟 Participación en proyectos colaborativos y código abierto
