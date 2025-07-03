@@ -8,7 +8,6 @@
 ## 🧠 Sobre mí
 
 - 💻 Apasionado por construir APIs y arquitecturas backend eficientes
-- 🧩 Fan de la automatización, integración de servicios y optimización
 - 🔄 En constante aprendizaje: siempre buscando nuevas herramientas y enfoques
 - 🧪 Curioso por la inteligencia artificial y machine learning
 - 🌍 Interesado en contribuir a proyectos open source
