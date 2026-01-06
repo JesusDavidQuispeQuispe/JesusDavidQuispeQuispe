@@ -9,7 +9,6 @@
 
 - 💻 Apasionado por construir APIs y arquitecturas backend eficientes
 - 🔄 En constante aprendizaje: siempre buscando nuevas herramientas y enfoques
-- 🧪 Curioso por la inteligencia artificial y machine learning
 - 🌍 Interesado en contribuir a proyectos open source
 - 📘 Estudiante activo de **Platzi**, llevando cursos de backend, bases de datos y arquitectura de software
 
